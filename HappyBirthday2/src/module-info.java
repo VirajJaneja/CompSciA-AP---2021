@@ -1,0 +1,2 @@
+module HappyBirthday2 {
+}
